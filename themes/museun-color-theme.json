@@ -500,6 +500,12 @@
 			}
 		},
 		{
+			"scope": "keyword.other.where.rust",
+			"settings": {
+				"foreground": "#ff6e6ec0"
+			}
+		},
+		{
 			"scope": "keyword.important.rust",
 			"settings": {
 				"foreground": "#7ebebe",
