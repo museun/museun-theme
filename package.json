@@ -1,0 +1,26 @@
+{
+    "name": "museun",
+    "displayName": "museun",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "museun",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/museun/museun-theme.git"
+    },
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "museun",
+                "uiTheme": "vs-dark",
+                "path": "./themes/museun-color-theme.json"
+            }
+        ]
+    }
+}
